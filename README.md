@@ -16,7 +16,7 @@ Submitted at: 5th International Conference on Robotics and Automation in Industr
 
 # Pre-requistes
 Main packages required are:
- - RensorFlow v2.9.2
+ - TensorFlow v2.9.2
  - Keras v2.9.0
  - rasterio
  - numpy
